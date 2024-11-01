@@ -57,24 +57,6 @@ void main() {
   }
 }
 ```
-## 1. Tipagem em Dart
-
-Dart facilita operações matemáticas básicas, que são frequentemente usadas no desenvolvimento de software. Abaixo estão exemplos de operações de soma, subtração, multiplicação e divisão.
-
-```dart
-Copiar código
-void main() {
-  int a = 10;
-  int b = 5;
-
-  int soma = a + b;
-  int subtracao = a - b;
-  int multiplicacao = a * b;
-  double divisao = a / b;
-
-  print("Soma: $soma, Subtração: $subtracao, Multiplicação: $multiplicacao, Divisão: $divisao");
-}
-```
 ## 3. Operadores Matemáticos
 Dart facilita operações matemáticas básicas, que são frequentemente usadas no desenvolvimento de software. Abaixo estão exemplos de operações de soma, subtração, multiplicação e divisão.
 
